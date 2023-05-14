@@ -38,7 +38,6 @@ Conocimientos:
 | alias update="sudo apt update && sudo apt upgrade" | Crea un alias "update" que ejecuta los comandos "sudo apt update" y "sudo apt upgrade" juntos. Esto te permitirá actualizar los paquetes de tu distribución de Linux en WSL de manera más rápida y sencilla |
 
 
-
-
+armando otro repositorio en una nueva rama jajajaja
 
  
